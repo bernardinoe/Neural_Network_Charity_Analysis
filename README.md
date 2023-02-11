@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to predict weather applicants will be succesful if funded by Alphabet Soup
