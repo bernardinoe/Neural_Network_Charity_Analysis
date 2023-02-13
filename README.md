@@ -37,15 +37,15 @@ I try to remove an additional variable. Addditionally, I tried using diferenc ac
 
 Accuracy per Attempt
 
-Attempt 1: 0.7227988243103027
+Attempt 1: 0.7225655913352966
 ![Attempt1](https://github.com/bernardinoe/Neural_Network_Charity_Analysis/blob/main/Attempt1.PNG)
 
-Attempt 2: 0.7210495471954346
+Attempt 2: 0.7240816354751587
 ![Attempt2](https://github.com/bernardinoe/Neural_Network_Charity_Analysis/blob/main/Attempt2.PNG)
 
-Attempt 3: 0.719650149345398
+Attempt 3: 0.7229154706001282
 ![Attempt3](https://github.com/bernardinoe/Neural_Network_Charity_Analysis/blob/main/Attempt3.PNG)
 
 
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-It was difficult to reach an accuracy of more 75% or more. The more i tried to increase performance, the lower number I would get. I would use the random forest model as it can handle a bigger dataset, use less time, avoids overfitting and has a better accuracy than other models.
+It was difficult to reach an accuracy of more 75% or more. The more i tried to increase performance, I would get a similar performance, and could not pass over 72%. I would use the random forest model as it can handle a bigger dataset, use less time, avoids overfitting and has a better accuracy than other models.
